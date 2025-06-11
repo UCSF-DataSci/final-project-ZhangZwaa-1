@@ -172,6 +172,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-data/
-data_voc/
-yolov8_pascal_person_data
+fine_tuningv3.ipynb

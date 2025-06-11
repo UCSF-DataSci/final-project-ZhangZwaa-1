@@ -1,0 +1,25 @@
+# Deep Learning and Model-related packages
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+datasets>=2.12.0
+evaluate>=0.4.0
+peft>=0.4.0
+bitsandbytes>=0.39.0
+timm>=0.9.0
+
+# Hugging Face Hub
+huggingface-hub>=0.15.0
+
+# Data processing and numerical computation
+numpy>=1.21.0
+
+# Jupyter and IPython
+jupyter>=1.0.0
+ipython>=7.16.0
+
+
+# Python built-in packages (no installation needed)
+# - gc (garbage collection)
+# - pprint (pretty print)
+# - torch.backends.mps (part of torch)
